@@ -5,7 +5,7 @@ public class op003 {
         double plotis = 6.25;
         double ilgis = 3.42;
         double plotas = plotis * ilgis;
-        double perimetras = (plotis + ilgis*2);
+        double perimetras = (plotis + ilgis)*2;
         System.out.println("Stačiakampio plotas = " + plotas);
         System.out.println("Stačiakampio perimetras = " + perimetras);
     }
