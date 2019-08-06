@@ -5,7 +5,7 @@ Skaičiuotuvas turi mokėti atlikti aritmetines, logines ir bitines operacijas.*
 
 import java.util.Scanner;
 
-public class op008 {
+public class Op008 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

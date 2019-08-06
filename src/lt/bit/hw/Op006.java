@@ -5,7 +5,7 @@ Skaičiavimo tikslumas turi būti du skaičiai po kalblelio. */
 
 import java.util.Scanner;
 
-public class op006 {
+public class Op006 {
     public static void main(String[] args) {
         converterFahrenheitToCelsius();
     }

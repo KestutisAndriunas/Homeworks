@@ -5,7 +5,7 @@ masę įvairiose planetose (Marsas, Plutonas ir pan.).*/
 
 import java.util.Scanner;
 
-public class op005 {
+public class Op005 {
     public static void main(String[] args) {
         weightOnPlanetCounter();
     }

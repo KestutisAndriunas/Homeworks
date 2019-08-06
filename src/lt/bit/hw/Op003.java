@@ -1,6 +1,6 @@
 package lt.bit.hw;
 
-public class op003 {
+public class Op003 {
     public static void main(String[] args) {
         double plotis = 6.25;
         double ilgis = 3.42;
